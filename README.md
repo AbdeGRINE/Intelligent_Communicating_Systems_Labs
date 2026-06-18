@@ -77,17 +77,6 @@ This repository contains a comprehensive series of laboratory projects focused o
 
 ---
 
-## Repository Structure (recommended)
-
-- `/labs/` — Individual lab folders (hardware list, schematics, code, notes)
-- `/docs/` — Supplementary documentation and tutorials
-- `/hardware/` — Fritzing/Proteus schematics, images, and wiring diagrams
-- `/raspi/` — Raspberry Pi scripts and configuration
-- `/arduino/` — Arduino sketches and libraries
-- `/simulations/` — Tinkercad / Proteus project files
-
----
-
 ## Contributing
 
 Contributions, improvements, and corrections are welcome. Please open an issue to discuss proposed changes and submit pull requests with clear descriptions and tested code.
