@@ -6,7 +6,7 @@ This repository contains a comprehensive series of laboratory projects focused o
 
 ---
 
-## 🛠 Technologies and Hardware
+## Technologies and Hardware
 
 ### Microcontrollers & Single-Board Computers
 - **Arduino MKR WiFi 1010** — A 32-bit ARM-based board (SAMD21 Cortex-M0+) featuring integrated Wi‑Fi (NINA‑W102) and Bluetooth capabilities.
@@ -23,7 +23,7 @@ This repository contains a comprehensive series of laboratory projects focused o
 
 ---
 
-## 📡 Protocols & Communication
+## Protocols & Communication
 
 ### Wired Protocols
 - **UART (Universal Asynchronous Receiver-Transmitter)** — Point‑to‑point full‑duplex communication between Arduino and Raspberry Pi.
@@ -38,7 +38,7 @@ This repository contains a comprehensive series of laboratory projects focused o
 
 ---
 
-## 💻 Frameworks & Software Tools
+## Frameworks & Software Tools
 
 ### Development Environments
 - **Arduino IDE** — Primary tool for authoring and uploading C++ code to Arduino boards.
@@ -57,7 +57,7 @@ This repository contains a comprehensive series of laboratory projects focused o
 
 ---
 
-## 🧠 Key Concepts Covered
+## Key Concepts Covered
 
 - **GPIO Management**: Digital I/O and Analog‑to‑Digital Conversion (ADC).
 - **PWM (Pulse Width Modulation)**: Simulating analog output for LED brightness or motor speed control.
